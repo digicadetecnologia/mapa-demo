@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family: 'simplonbp';
+    src: url('simplonbp-bold-webfont.woff2') format('woff2'),
+         url('simplonbp-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: bold;
+
+}
+
+
+@font-face {
+    font-family: 'SimplonBP-Regular';
+    src: url('simplonbp-regular-webfont.woff2') format('woff2'),
+         url('simplonbp-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'simplonoi';
+    src: url('simplonoi-headline-webfont.woff2') format('woff2'),
+         url('simplonoi-headline-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
