@@ -2,9 +2,9 @@
 
 ## Clonar repositório
 
-````
-* [GIT] (https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
-````
+
+[GIT - DOC] (https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+
 ````
 	https://github.com/digicadetecnologia/mapa-demo.git
 ````
@@ -20,6 +20,9 @@
 ***Visual Studio Code***
 
 * [Visual Studio Code] (https://code.visualstudio.com/download)
+
+***Proxy***
+Clonar e executar projeto Proxy
 ```
 
 ### CLONAR PROXY
