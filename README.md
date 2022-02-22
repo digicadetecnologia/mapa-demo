@@ -2,9 +2,9 @@
 
 ## Clonar repositório
 
-````
-* [GIT] (https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
-````
+
+[GIT] (https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+
 ````
 	https://github.com/digicadetecnologia/mapa-demo.git
 ````
